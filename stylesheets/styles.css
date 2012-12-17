@@ -1007,4 +1007,14 @@ footer {
     bottom: auto;
     width: auto;
   }
+
 }
+.screen_links a{
+    color: #78F3F3;
+}
+
+#screenSection {
+margin-top: 0%;
+}
+
+
